@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "smoothic"]
+	path = smoothic
+	url = https://github.com/meadhbh-oneill/smoothic
+	shallow = true
+	registered = true
